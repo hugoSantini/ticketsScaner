@@ -1,5 +1,4 @@
-{
-  "eventList":[
+[
     {
       "id": "0001",
       "name": "Grand festival de Paris",
@@ -44,6 +43,14 @@
       "qttMax": "3000",
       "qttReserved": "2980",
       "qttScanned": "0"
-    }
-  ]
-}
+      },
+      {
+        "id": "0006",
+        "name": "Grand festival de Bordeaux",
+        "date": "02/07/2021",
+        "place": "Bordeaux",
+        "qttMax": "5000",
+        "qttReserved": "3750",
+        "qttScanned": "0"
+        }
+]
