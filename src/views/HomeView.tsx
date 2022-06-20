@@ -52,7 +52,7 @@ const HomeView = () => {
 
 const styles = StyleSheet.create({
   headerPage:{
-    borderWidth:2,
+    borderBottomWidth:2,
     paddingTop:15,
     paddingBottom:15,
     alignItems:'center'

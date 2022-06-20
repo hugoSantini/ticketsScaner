@@ -1,0 +1,11 @@
+{
+  "ticketId" : "0001",
+  "lastName" : "SANTINI",
+  "name" : "Hugo",
+  "email" : "hugo.santini@live.fr",
+  "purchaseDate" : "14/02/2021",
+  "purchasePlace" : "Online Shop",
+  "payment" : "Credit Card",
+  "ticketPrice": "30€",
+  "eventId" : "0001"
+}

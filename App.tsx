@@ -18,10 +18,11 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import HomeView from './src/views/HomeView';
 import LoginView from './src/views/LoginView';
+import ScanView from './src/views/ScanView';
 
 const App = () => {
   return(
-    <LoginView/>
+    <ScanView/>
   );
 };
 

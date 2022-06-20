@@ -30,7 +30,7 @@ const LoginView = () => {
     <><View>
           <Text
               style={styles.titre}> 
-              AirDev Tickets Scanners
+              AirDev Tickets Scanner
           </Text>
           <TextInput
               style={styles.TextInput}
@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
         textAlign : 'center',
         marginTop: 30,
         marginBottom: 50,
-        borderWidth: 1,
+        borderBottomWidth:2,
         padding: 10,
         fontSize: 20,
         fontWeight: 'bold',
